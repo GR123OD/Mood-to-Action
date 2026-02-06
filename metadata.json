@@ -1,0 +1,7 @@
+{
+  "name": "Mood-to-Action Engine",
+  "description": "An intelligent decision-engine that analyzes your biometric data and daily activity to provide curated recommendations for food, entertainment, and wellness, eliminating choice fatigue.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
